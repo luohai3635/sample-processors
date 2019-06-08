@@ -1,0 +1,6 @@
+target
+.idea
+nifi-sample/target
+nifi-sample-api/target
+nifi-sample-nar/target
+nifi-sample-processors/target
